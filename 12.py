@@ -13,4 +13,3 @@ for a,b in aa.items():
 if d==0:
     d='no'
 print('過半元素：',d)
-        
