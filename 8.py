@@ -10,4 +10,3 @@ if len(b1)==a :
         print('出現次數為:',b1.count(max(b1,key=b1.count)))
 else:
     print('輸入錯誤')
-
